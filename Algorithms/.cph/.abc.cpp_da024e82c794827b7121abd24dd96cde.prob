@@ -1,0 +1,1 @@
+{"name":"Local: abc","url":"c:\\1mehedi\\Play Code\\DSA\\Algorithms\\abc.cpp","tests":[{"id":1762459621901,"input":"6 8\n.#.#####\n.#.###..\n#..#...#\n#.##....\n..##.###\n#.#.##.#","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\1mehedi\\Play Code\\DSA\\Algorithms\\abc.cpp","group":"local","local":true}
